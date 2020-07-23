@@ -4,7 +4,7 @@
   "description": "Basic Minecraft Bedrock Edition software ",
   "main": "bootstrap.js",
   "scripts": {
-    "test": "node bootstrap.js"
+    "test": "node bootstrap.js && exit 1"
   },
   "repository": {
     "type": "git",
